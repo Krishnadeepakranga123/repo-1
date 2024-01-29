@@ -2,7 +2,8 @@ this is
 dev---> developer code
 
 public class dev{
-public static void main(String[]args){
-System.out.println("This is dev data");
+public static void main(String[]args)
+{
+  System.out.println("This is dev data");
 }
 }
